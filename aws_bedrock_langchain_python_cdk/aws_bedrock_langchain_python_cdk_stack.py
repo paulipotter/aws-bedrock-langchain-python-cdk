@@ -1,6 +1,4 @@
 from aws_cdk import (
-    Stack,
-    Duration,
     aws_iam as iam,
     aws_lambda as _lambda,
     aws_lambda_python_alpha as _alambda,
